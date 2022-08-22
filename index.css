@@ -3,3 +3,12 @@
     align-items: flex-end;
     justify-content: end;
 }
+
+@media screen and (max-width: 576px) {
+    .mobil{
+        width: 350px;
+    }
+  .asek{
+      width:400px;
+  }
+  }
