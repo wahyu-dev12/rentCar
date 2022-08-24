@@ -71,11 +71,11 @@
 }
 
 .fa-angle-left:hover{
-    color:white;
+    /* color:white; */
 }
 
 .fa-angle-right:hover{
-    color:white;
+    /* color:white; */
 }
 
 /* tutup testimoni */
@@ -86,20 +86,21 @@
         width: 350px;
     }
   .asek{
-      width:400px;
+      width:320px;
+      align-items:center;
   }
   .test{
       width:80%;
      
   }
   #carouselExampleControls{
-    width:670px;
+    width:550px;
   }
   .gambar {
-    width:350px;
+    width:270px;
     }
 .mobil img{
-    width: 470px;
+    width: 350px;
 }
 .whyyy h4{
     text-align: center;
@@ -112,5 +113,8 @@
 }
 .isidua p{
     text-align: center;
+}
+.navbar{
+    width:370px
 }
 }
